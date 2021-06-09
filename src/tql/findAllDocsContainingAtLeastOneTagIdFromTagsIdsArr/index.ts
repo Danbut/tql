@@ -1,0 +1,3 @@
+import findAllDocsContainingAtLeastOneTagIdFromTagsIdsArr from './findAllDocsContainingAtLeastOneTagIdFromTagsIdsArr';
+
+export default findAllDocsContainingAtLeastOneTagIdFromTagsIdsArr;

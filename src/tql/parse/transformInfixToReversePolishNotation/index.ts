@@ -1,0 +1,3 @@
+import transformInfixToReversePolishNotation from './transformInfixToReversePolishNotation';
+
+export default transformInfixToReversePolishNotation;
